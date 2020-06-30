@@ -1,16 +1,16 @@
-# site settings
-title: Forty
-subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+rum# site settings
+title: Spectrum
+subtitle: Lab
+email: spectrumlabiisc@gmail.com
+description: To conduct world-class scientific research in cutting-edge signal and image processing areas with emphasis on the fundamental mathematical aspects as well as the application domains.
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
+street_address: Department of Electrical Engineering <br/> Indian Institute of Science
+city: Bengaluru
+state: Karnataka
+zip_code: 560012
+country: India
 phone: (716) 555-5555
 
 # homepage tiles
